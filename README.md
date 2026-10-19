@@ -52,6 +52,22 @@ More detail is in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 | Azure Monitor | Alerts on failed remediation runs |
 | App Service | Hosts the admin dashboard |
 | Container Instances | Short-lived Trivy vulnerability scan |
+## Project Screenshots & Architecture
+
+### 1. Architecture Flow Diagram
+![Architecture Flow](docs/screenshots/08-dashboard.png)
+
+### 2. Deployed Azure Resource Group
+![Resource Group Overview](docs/screenshots/01-resource-group.png)
+
+### 3. Logic App Approval Email
+![Approval Email](docs/screenshots/02-approval-email.png)
+
+### 4. Approval Response Confirmation
+![Approval Response](docs/screenshots/03-approval-response.png)
+
+### 5. Azure Monitor Alert Notification
+![Alert Email](docs/screenshots/04-alert-email.png)
 
 ## Repository structure
 
