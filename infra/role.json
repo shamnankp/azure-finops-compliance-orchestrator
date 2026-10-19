@@ -1,0 +1,11 @@
+{
+  "Name": "Public IP Deleter (FinOps)",
+  "IsCustom": true,
+  "Description": "Read and delete public IP addresses only",
+  "Actions": [
+    "Microsoft.Network/publicIPAddresses/read",
+    "Microsoft.Network/publicIPAddresses/delete"
+  ],
+  "NotActions": [],
+  "AssignableScopes": ["/subscriptions/<subscription-id>/resourceGroups/rg-finops-compliance-prod-Shamnan"]
+}

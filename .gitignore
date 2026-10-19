@@ -1,0 +1,7 @@
+﻿*.zip
+.env
+local.settings.json
+*.pem
+*.key
+__pycache__/
+.vscode/
