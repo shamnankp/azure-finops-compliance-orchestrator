@@ -55,20 +55,19 @@ More detail is in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 ## Project Screenshots & Architecture
 
 ### 1. Architecture Flow Diagram
-### 1. Architecture Flow Diagram
-![Architecture Flow](https://raw.githubusercontent.com/shamnankp/azure-finops-compliance-orchestrator/main/docs/screenshots/08-dashboard.png)
+![Architecture Flow](docs/screenshots/08-dashboard.png)
 
 ### 2. Deployed Azure Resource Group
-![Resource Group Overview](https://raw.githubusercontent.com/shamnankp/azure-finops-compliance-orchestrator/main/docs/screenshots/01-resource-group.png)
+![Resource Group Overview](docs/screenshots/01-resource-group.png)
 
 ### 3. Logic App Approval Email
-![Approval Email](https://raw.githubusercontent.com/shamnankp/azure-finops-compliance-orchestrator/main/docs/screenshots/02-approval-email.png)
+![Approval Email](docs/screenshots/02-approval-email.png)
 
 ### 4. Approval Response Confirmation
-![Approval Response](https://raw.githubusercontent.com/shamnankp/azure-finops-compliance-orchestrator/main/docs/screenshots/03-approval-response.png)
+![Approval Response](docs/screenshots/03-approval-response.png)
 
 ### 5. Azure Monitor Alert Notification
-![Alert Email](https://raw.githubusercontent.com/shamnankp/azure-finops-compliance-orchestrator/main/docs/screenshots/04-alert-email.png)
+![Alert Email](docs/screenshots/04-alert-email.png)
 
 ## Repository structure
 
