@@ -55,6 +55,7 @@ More detail is in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 ## Project Screenshots & Architecture
 
 ### 1. Architecture Flow Diagram
+### 1. Architecture Flow Diagram
 ![Architecture Flow](https://raw.githubusercontent.com/shamnankp/azure-finops-compliance-orchestrator/main/docs/screenshots/08-dashboard.png)
 
 ### 2. Deployed Azure Resource Group
